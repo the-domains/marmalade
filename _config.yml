@@ -1,6 +1,6 @@
 name: Marmalade
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.05746300145983696
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.10557822859846056
